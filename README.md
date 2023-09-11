@@ -33,9 +33,9 @@ SUPABASE_SERVICE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZ
   
 5.  In Other Terminal
 
-cd worker: Changes the current directory to the "worker" directory.
+    cd worker: Changes the current directory to the "worker" directory.
 
-yarn and wrangler dev --local
+    yarn and wrangler dev --local
 
 
 Now you can go to localhost:3000 and create an account.
